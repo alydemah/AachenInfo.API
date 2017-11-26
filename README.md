@@ -1,5 +1,7 @@
-# AachenInfo.API
-API for Aachen Areas and it's points of Attractions
+# AachenInfo API
+API for Aachen Areas and it's points of Attractions.
+see places of attractions in each city part in aachen.
+Get information about each city part
 
 ### How to use It?
  You can use https://www.getpostman.com to consume this API.
